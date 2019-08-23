@@ -1,0 +1,7 @@
+C:\Users\giova\Documents\VS19 Projects\Funcao\Funcao\bin\Debug\Funcao.exe.config
+C:\Users\giova\Documents\VS19 Projects\Funcao\Funcao\bin\Debug\Funcao.exe
+C:\Users\giova\Documents\VS19 Projects\Funcao\Funcao\bin\Debug\Funcao.pdb
+C:\Users\giova\Documents\VS19 Projects\Funcao\Funcao\obj\Debug\Funcao.csprojAssemblyReference.cache
+C:\Users\giova\Documents\VS19 Projects\Funcao\Funcao\obj\Debug\Funcao.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\VS19 Projects\Funcao\Funcao\obj\Debug\Funcao.exe
+C:\Users\giova\Documents\VS19 Projects\Funcao\Funcao\obj\Debug\Funcao.pdb
